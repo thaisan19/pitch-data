@@ -1,0 +1,349 @@
+{
+ "pitches": [
+  {
+   "id": "01",
+   "pitchNumber": "01",
+   "pitchDesc": {
+    "pitchSize": "Small | 55m x 36.5m | 7-a-side",
+    "pitchCondition": "Mini pitch and stay in good condition and cover by the heat minimizer roof."
+   },
+   "pitchPrice": [
+    {
+     "weekday": [
+     {
+      "morning": [
+      {
+       "timeIn": ["8:00 AM", "9:00 AM", "10:00 AM", "11:00 AM"],
+       "timeOut": ["9:00 AM", "10: 00 AM", "11: AM", "12 AM"],
+       "price": ["8", "8", "8", "8"]
+      }
+     ],
+      "afternoon": [
+      { 
+       "timeIn": ["12:00 PM", "13:00 PM", "14:00 PM", "15:00 PM"],
+       "timeOut": ["13:00 PM", "14: 00 PM", "15:00 PM", "16:00 PM"],
+       "price": ["12", "12", "12", "12"]
+      }
+     ],
+      "evening": [
+      {
+       "timeIn": ["16:00 PM", "17:00 PM"],
+       "timeOut": ["17:00 PM", "18: 00 PM"],
+       "price": ["15", "15"]
+      }
+     ],
+     "night": [
+      {
+       "timeIn": ["18:00 PM", "19:00 PM", "20:00 PM", "21:00 PM", "22:00"],
+       "timeOut": ["19:00 PM", "20: 00 PM", "21: PM", "22:00 PM", "23:00 PM"],
+       "price": ["22", "22", "22", "22", "22"]
+      }
+     ]
+     }
+    ]
+   },
+   {
+     "saturday": [
+     {
+      "morning": [
+      {
+       "timeIn": ["8:00 AM", "9:00 AM", "10:00 AM", "11:00 AM"],
+       "timeOut": ["9:00 AM", "10: 00 AM", "11: AM", "12 AM"],
+       "price": ["9", "9", "9", "9"]
+      }
+     ],
+      "afternoon": [
+      { 
+       "timeIn": ["12:00 PM", "13:00 PM", "14:00 PM", "15:00 PM"],
+       "timeOut": ["13:00 PM", "14: 00 PM", "15:00 PM", "16:00 PM"],
+       "price": ["14", "14", "14", "14"]
+      }
+     ],
+      "evening": [
+      {
+       "timeIn": ["16:00 PM", "17:00 PM"],
+       "timeOut": ["17:00 PM", "18: 00 PM"],
+       "price": ["16", "16"]
+      }
+     ],
+     "night": [
+      {
+       "timeIn": ["18:00 PM", "19:00 PM", "20:00 PM", "21:00 PM", "22:00"],
+       "timeOut": ["19:00 PM", "20: 00 PM", "21: PM", "22:00 PM", "23:00 PM"],
+       "price": ["23", "23", "23", "23", "23"]
+      }
+     ]
+     }
+    ]
+   },
+   {
+     "sunday": [
+     {
+      "morning": [
+      {
+       "timeIn": ["8:00 AM", "9:00 AM", "10:00 AM", "11:00 AM"],
+       "timeOut": ["9:00 AM", "10: 00 AM", "11: AM", "12 AM"],
+       "price": ["9", "9", "9", "9"]
+      }
+     ],
+      "afternoon": [
+      { 
+       "timeIn": ["12:00 PM", "13:00 PM", "14:00 PM", "15:00 PM"],
+       "timeOut": ["13:00 PM", "14: 00 PM", "15:00 PM", "16:00 PM"],
+       "price": ["14", "14", "14", "14"]
+      }
+     ],
+      "evening": [
+      {
+       "timeIn": ["16:00 PM", "17:00 PM"],
+       "timeOut": ["17:00 PM", "18: 00 PM"],
+       "price": ["17", "17"]
+      }
+     ],
+     "night": [
+      {
+       "timeIn": ["18:00 PM", "19:00 PM", "20:00 PM", "21:00 PM", "22:00"],
+       "timeOut": ["19:00 PM", "20: 00 PM", "21: PM", "22:00 PM", "23:00 PM"],
+       "price": ["25", "25", "25", "25", "25"]
+      }
+     ]
+     }
+    ]
+   }
+   ],
+   "createdBy": "Premium Football Club",
+   "updatedBy": "Premium Football Club",
+   "createdAt": "2021-04-21T18:25:43.511Z"
+  },
+  {
+   "id": "02",
+   "pitchNumber": "02",
+   "pitchDesc": {
+    "pitchSize": "Small | 55m x 36.5m | 5-a-side",
+    "pitchCondition": "Futsal pitch with perfect condition cover by metal roof."
+   },
+   "pitchPrice": [
+    {
+     "weekday": [
+     {
+      "morning": [
+      {
+       "timeIn": ["8:00 AM", "9:00 AM", "10:00 AM", "11:00 AM"],
+       "timeOut": ["9:00 AM", "10: 00 AM", "11: AM", "12 AM"],
+       "price": ["8", "8", "8", "8"]
+      }
+     ],
+      "afternoon": [
+      { 
+       "timeIn": ["12:00 PM", "13:00 PM", "14:00 PM", "15:00 PM"],
+       "timeOut": ["13:00 PM", "14: 00 PM", "15:00 PM", "16:00 PM"],
+       "price": ["12", "12", "12", "12"]
+      }
+     ],
+      "evening": [
+      {
+       "timeIn": ["16:00 PM", "17:00 PM"],
+       "timeOut": ["17:00 PM", "18: 00 PM"],
+       "price": ["15", "15"]
+      }
+     ],
+     "night": [
+      {
+       "timeIn": ["18:00 PM", "19:00 PM", "20:00 PM", "21:00 PM", "22:00"],
+       "timeOut": ["19:00 PM", "20: 00 PM", "21: PM", "22:00 PM", "23:00 PM"],
+       "price": ["22", "22", "22", "22", "22"]
+      }
+     ]
+     }
+    ]
+   },
+   {
+     "saturday": [
+     {
+      "morning": [
+      {
+       "timeIn": ["8:00 AM", "9:00 AM", "10:00 AM", "11:00 AM"],
+       "timeOut": ["9:00 AM", "10: 00 AM", "11: AM", "12 AM"],
+       "price": ["9", "9", "9", "9"]
+      }
+     ],
+      "afternoon": [
+      { 
+       "timeIn": ["12:00 PM", "13:00 PM", "14:00 PM", "15:00 PM"],
+       "timeOut": ["13:00 PM", "14: 00 PM", "15:00 PM", "16:00 PM"],
+       "price": ["14", "14", "14", "14"]
+      }
+     ],
+      "evening": [
+      {
+       "timeIn": ["16:00 PM", "17:00 PM"],
+       "timeOut": ["17:00 PM", "18: 00 PM"],
+       "price": ["16", "16"]
+      }
+     ],
+     "night": [
+      {
+       "timeIn": ["18:00 PM", "19:00 PM", "20:00 PM", "21:00 PM", "22:00"],
+       "timeOut": ["19:00 PM", "20: 00 PM", "21: PM", "22:00 PM", "23:00 PM"],
+       "price": ["23", "23", "23", "23", "23"]
+      }
+     ]
+     }
+    ]
+   },
+   {
+     "sunday": [
+     {
+      "morning": [
+      {
+       "timeIn": ["8:00 AM", "9:00 AM", "10:00 AM", "11:00 AM"],
+       "timeOut": ["9:00 AM", "10: 00 AM", "11: AM", "12 AM"],
+       "price": ["9", "9", "9", "9"]
+      }
+     ],
+      "afternoon": [
+      { 
+       "timeIn": ["12:00 PM", "13:00 PM", "14:00 PM", "15:00 PM"],
+       "timeOut": ["13:00 PM", "14: 00 PM", "15:00 PM", "16:00 PM"],
+       "price": ["14", "14", "14", "14"]
+      }
+     ],
+      "evening": [
+      {
+       "timeIn": ["16:00 PM", "17:00 PM"],
+       "timeOut": ["17:00 PM", "18: 00 PM"],
+       "price": ["17", "17"]
+      }
+     ],
+     "night": [
+      {
+       "timeIn": ["18:00 PM", "19:00 PM", "20:00 PM", "21:00 PM", "22:00"],
+       "timeOut": ["19:00 PM", "20: 00 PM", "21: PM", "22:00 PM", "23:00 PM"],
+       "price": ["25", "25", "25", "25", "25"]
+      }
+     ]
+     }
+    ]
+   }
+   ],
+   "createdBy": "Premium Football Club",
+   "updatedBy": "Premium Football Club",
+   "createdAt": "2021-04-24T11:22:42.511Z"
+  },
+  {
+   "id": "03",
+   "pitchNumber": "03",
+   "pitchDesc": {
+    "pitchSize": "Small | 55m x 36.5m | 7-a-side",
+    "pitchCondition": "Air Conditioner pitch, cover by banana leafs roof."
+   },
+   "pitchPrice": [
+    {
+     "weekday": [
+     {
+      "morning": [
+      {
+       "timeIn": ["8:00 AM", "9:00 AM", "10:00 AM", "11:00 AM"],
+       "timeOut": ["9:00 AM", "10: 00 AM", "11: AM", "12 AM"],
+       "price": ["8", "8", "8", "8"]
+      }
+     ],
+      "afternoon": [
+      { 
+       "timeIn": ["12:00 PM", "13:00 PM", "14:00 PM", "15:00 PM"],
+       "timeOut": ["13:00 PM", "14: 00 PM", "15:00 PM", "16:00 PM"],
+       "price": ["12", "12", "12", "12"]
+      }
+     ],
+      "evening": [
+      {
+       "timeIn": ["16:00 PM", "17:00 PM"],
+       "timeOut": ["17:00 PM", "18: 00 PM"],
+       "price": ["15", "15"]
+      }
+     ],
+     "night": [
+      {
+       "timeIn": ["18:00 PM", "19:00 PM", "20:00 PM", "21:00 PM", "22:00"],
+       "timeOut": ["19:00 PM", "20: 00 PM", "21: PM", "22:00 PM", "23:00 PM"],
+       "price": ["22", "22", "22", "22", "22"]
+      }
+     ]
+     }
+    ]
+   },
+   {
+     "saturday": [
+     {
+      "morning": [
+      {
+       "timeIn": ["8:00 AM", "9:00 AM", "10:00 AM", "11:00 AM"],
+       "timeOut": ["9:00 AM", "10: 00 AM", "11: AM", "12 AM"],
+       "price": ["9", "9", "9", "9"]
+      }
+     ],
+      "afternoon": [
+      { 
+       "timeIn": ["12:00 PM", "13:00 PM", "14:00 PM", "15:00 PM"],
+       "timeOut": ["13:00 PM", "14: 00 PM", "15:00 PM", "16:00 PM"],
+       "price": ["14", "14", "14", "14"]
+      }
+     ],
+      "evening": [
+      {
+       "timeIn": ["16:00 PM", "17:00 PM"],
+       "timeOut": ["17:00 PM", "18: 00 PM"],
+       "price": ["16", "16"]
+      }
+     ],
+     "night": [
+      {
+       "timeIn": ["18:00 PM", "19:00 PM", "20:00 PM", "21:00 PM", "22:00"],
+       "timeOut": ["19:00 PM", "20: 00 PM", "21: PM", "22:00 PM", "23:00 PM"],
+       "price": ["23", "23", "23", "23", "23"]
+      }
+     ]
+     }
+    ]
+   },
+   {
+     "sunday": [
+     {
+      "morning": [
+      {
+       "timeIn": ["8:00 AM", "9:00 AM", "10:00 AM", "11:00 AM"],
+       "timeOut": ["9:00 AM", "10: 00 AM", "11: AM", "12 AM"],
+       "price": ["9", "9", "9", "9"]
+      }
+     ],
+      "afternoon": [
+      { 
+       "timeIn": ["12:00 PM", "13:00 PM", "14:00 PM", "15:00 PM"],
+       "timeOut": ["13:00 PM", "14: 00 PM", "15:00 PM", "16:00 PM"],
+       "price": ["14", "14", "14", "14"]
+      }
+     ],
+      "evening": [
+      {
+       "timeIn": ["16:00 PM", "17:00 PM"],
+       "timeOut": ["17:00 PM", "18: 00 PM"],
+       "price": ["17", "17"]
+      }
+     ],
+     "night": [
+      {
+       "timeIn": ["18:00 PM", "19:00 PM", "20:00 PM", "21:00 PM", "22:00"],
+       "timeOut": ["19:00 PM", "20: 00 PM", "21: PM", "22:00 PM", "23:00 PM"],
+       "price": ["25", "25", "25", "25", "25"]
+      }
+     ]
+     }
+    ]
+   }
+   ],
+   "createdBy": "Premium Football Club",
+   "updatedBy": "Premium Football Club",
+   "createdAt": "2021-04-23T16:21:43.511Z"
+  }
+ ]
+}
